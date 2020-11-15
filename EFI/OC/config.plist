@@ -260,22 +260,8 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)</key>
 			<dict>
-				<key>pci-aspm-default</key>
-				<integer>0</integer>
-				<key>compatible</key>
-				<string>pci14e4,4331</string>
-				<key>AAPL,slot-name</key>
-				<string>WLAN</string>
 				<key>brcmfx-country</key>
 				<string>#a</string>
-				<key>#device-id</key>
-				<data>oEMAAA==</data>
-				<key>device_type</key>
-				<string>Airport Extreme</string>
-				<key>model</key>
-				<string>DW1820A (BRCM4350) 802.11ac Wireless</string>
-				<key>name</key>
-				<string>Airport</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
